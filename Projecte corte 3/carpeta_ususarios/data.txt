@@ -1,0 +1,2 @@
+cedula,nombre,apellido,edad,propiedades
+1234,jhon,smiht,45,none

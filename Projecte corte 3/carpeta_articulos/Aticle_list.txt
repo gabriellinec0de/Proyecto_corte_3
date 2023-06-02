@@ -1,0 +1,5 @@
+Codigo_propiedad,Tamaño_propiedad,Numero_habitaciones,Propiedad_amueblada
+43522,23,5,False
+4574,34,23,True
+8665,68,7,False
+false,212,7,True

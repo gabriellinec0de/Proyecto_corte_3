@@ -1,0 +1,1 @@
+codigo_venta,codigo_propiedad,documento_usuario,precio_venta
